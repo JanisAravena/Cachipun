@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg?crop=0.994xw:0.799xh;0.00160xw,0.195xh&resize=2048:*');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif; 
+    color: white; 
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7); 
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+h1, label, button {
+    font-weight: 600;
+}
